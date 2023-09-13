@@ -1,4 +1,4 @@
-# Python-Question_Bank
+
 
 # Python Question Bank Project 🐍
 
@@ -25,6 +25,11 @@ The Python Question Bank project is your one-stop destination for mastering Pyth
 - **Visual Charms:** Py's visual aids and illustrations will illuminate complex Python concepts. Learning has never been this enchanting!
 
 - **Py's Playful Presence:** Py, our Python character, will accompany you throughout the project, making Python learning a truly unique experience.
+
+## 🧙‍♂️ Author 🧙‍♀️
+This Python Question Bank project is crafted by [Vinodhini Rajamanickam](https://github.com/Vinodhini96).
+
+(Note: All visual elements, including the Py character image and other illustrations, were lovingly created by the author [Vinodhini Rajamanickam](https://github.com/Vinodhini96) using various creative tools. The images are available in the [GitHub repository](https://github.com/Vinodhini96/) for everyone to enjoy. 
 
   Join Py and let's journey through Python together! The Python Question Bank project is where fun meets learning. 🐍🌟
 
