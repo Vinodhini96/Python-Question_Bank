@@ -29,7 +29,7 @@ The Python Question Bank project is your one-stop destination for mastering Pyth
 ## 🧙‍♂️ Author 🧙‍♀️
 This Python Question Bank project is crafted by [Vinodhini Rajamanickam](https://github.com/Vinodhini96).
 
-(Note: Py character image and other illustrations, were lovingly created by the author [Vinodhini Rajamanickam](https://github.com/Vinodhini96) using various creative tools. The images are available in the [GitHub repository](https://github.com/Vinodhini96/) for everyone to enjoy. and a few memes and images are gathered from different websites. 
+(Note: Py character image and other illustrations, were lovingly created by the author [Vinodhini Rajamanickam](https://github.com/Vinodhini96) using various creative tools. The images are available in the [GitHub repository](hPython_QB_images) for everyone to enjoy. and a few memes and images are gathered from different websites. 
 
   Join Py and let's journey through Python together! The Python Question Bank project is where fun meets learning. 🐍🌟
 
