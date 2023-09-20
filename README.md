@@ -6,7 +6,7 @@ Welcome to the Python Question Bank project, guided by our Python character, Py!
 
 ## 🐍 Who is Py?
 
-![Image of Py, the Python character](py-character-image.jpg)
+![Image of Py, the Python character](3.jpg)
 
 Meet Py, your Python adventure companion! Py is a friendly Python snake who's here to make learning Python both entertaining and educational.
 
